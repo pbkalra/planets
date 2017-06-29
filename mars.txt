@@ -2,3 +2,5 @@ stuff about mars
 Another line of text here
 And then a third statement
 something different from what Tedward said
+Tedward's first change to mars
+ok all conflicts resolved!
